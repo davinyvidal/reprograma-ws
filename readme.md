@@ -15,7 +15,7 @@ Documentações HTML: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Attribut
 
 Slides: https://drive.google.com/file/d/1Af5a5V7HWWuGy7kGM8wo39JEsOVdKYgH/view
 
-o Site: https://reprograma-ws.netlify.app/
+Site Demo: https://reprograma-ws.netlify.app/
 
 
 ##### Notações a Parte:
